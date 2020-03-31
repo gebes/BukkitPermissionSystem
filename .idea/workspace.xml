@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d918f9d0-69df-4c9c-ba39-479ed9d7eed7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZuLBCa9zXPhxWcLLOSP2x0T2zK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BukkitPermissionSystem" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eu.gebes.BukkitPermissionSystem.v1.BukkitPermissionSystem" />
+      <module name="BukkitPermissionSystem" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d918f9d0-69df-4c9c-ba39-479ed9d7eed7" name="Default Changelist" comment="" />
+      <created>1585683894243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585683894243</updated>
+      <workItem from="1585683896033" duration="1436000" />
+      <workItem from="1585685566270" duration="1047000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="179" y="-878" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585686045736">
+      <screen x="-245" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="179" y="-878" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-245.-1080.1920.1080@-245.-1080.1920.1080" timestamp="1585686045736" />
+    <state x="452" y="-749" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585686045564">
+      <screen x="-245" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="452" y="-749" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900/-245.-1080.1920.1080@-245.-1080.1920.1080" timestamp="1585686045564" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1585686347593">
+      <screen x="-245" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900/-245.-1080.1920.1080@-245.-1080.1920.1080" timestamp="1585686347593" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1585686347591">
+      <screen x="-245" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1440.900/-245.-1080.1920.1080@-245.-1080.1920.1080" timestamp="1585686347591" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1585686347590">
+      <screen x="-245" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1440.900/-245.-1080.1920.1080@-245.-1080.1920.1080" timestamp="1585686347590" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1585686347592">
+      <screen x="-245" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1440.900/-245.-1080.1920.1080@-245.-1080.1920.1080" timestamp="1585686347592" />
+    <state x="408" y="-708" key="com.intellij.ide.util.TipDialog" timestamp="1585685565986">
+      <screen x="-245" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="408" y="-708" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-245.-1080.1920.1080@-245.-1080.1920.1080" timestamp="1585685565986" />
+  </component>
+</project>
