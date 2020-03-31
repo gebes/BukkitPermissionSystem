@@ -7,20 +7,7 @@
     <groupId>eu.gebes</groupId>
     <artifactId>projectName</artifactId>
     <version>1.0</version>
-
-    <dependencies>
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <version>LATEST</version>
-            <scope>provided</scope>
-        </dependency>
-        <dependency>
-            <groupId>com.fasterxml.jackson.core</groupId>
-            <artifactId>jackson-databind</artifactId>
-            <version>2.9.8</version>
-        </dependency>
-    </dependencies>
+    
 
     <build>
         <plugins>
