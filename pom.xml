@@ -7,7 +7,6 @@
     <groupId>eu.gebes</groupId>
     <artifactId>BukkitPermissionSystem</artifactId>
     <version>1.0</version>
-    
 
     <build>
         <plugins>

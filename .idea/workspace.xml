@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d918f9d0-69df-4c9c-ba39-479ed9d7eed7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/eu/gebes/BukkitPermissionSystem/v1/Permissible.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/eu/gebes/BukkitPermissionSystem/v1/BukkitPermissionSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/eu/gebes/BukkitPermissionSystem/v1/BukkitPermissionSystem.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +128,7 @@
       <updated>1585683894243</updated>
       <workItem from="1585683896033" duration="1436000" />
       <workItem from="1585685566270" duration="1520000" />
-      <workItem from="1585723972995" duration="526000" />
+      <workItem from="1585723972995" duration="1477000" />
     </task>
     <servers />
   </component>
