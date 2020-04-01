@@ -4,6 +4,7 @@ import java.util.List;
 
 public class BukkitPermissionSystem {
 
+
     /**
      * Test Main
      */
@@ -32,7 +33,8 @@ public class BukkitPermissionSystem {
         for (int i = 0; i < nodes.length; i++) {
             if (i == 0)
                 currentNodeProgress = nodes[i];
-            else currentNodeProgress += "." + nodes[i];
+            else
+                currentNodeProgress += "." + nodes[i];
 
             if (permissions.contains(currentNodeProgress) || permissions.contains(currentNodeProgress + ".*"))
                 return true;
