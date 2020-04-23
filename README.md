@@ -43,3 +43,6 @@ Any helpful hand is appreciated, so don't be shy🙈.
 
 No License.  
 Do anything you want to do with this piece code
+
+## What did I learn?
+* Rewriting modules you have used years ago is fun!
